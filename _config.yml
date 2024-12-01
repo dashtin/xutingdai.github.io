@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuting Dai"
-description              : "Welcome to Xuting Dai's homepage. "
+description              : "Welcome to Xuting Dai's homepage. If you have any advice, please send me emails, I will be so glad to hear from you! "
 repository               : "dashtin/xutingdai.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "daixuting@gmail.com"
+  email            : "daixuting1123@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
