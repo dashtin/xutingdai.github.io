@@ -36,7 +36,7 @@ My research interest includes law, feminism and criminology. I tend to use machi
 **Xuting Dai**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper has been submitted to Journal of Feminist Criminology. I have uploaded the data and algorithms I used to GitHub. You can access the source by clicking the project link. 
 </div>
 </div>
 
