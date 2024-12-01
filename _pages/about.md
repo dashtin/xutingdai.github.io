@@ -33,7 +33,7 @@ My research interest includes law, feminism and criminology. I tend to use machi
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xuting Dai**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,7 +52,7 @@ My research interest includes law, feminism and criminology. I tend to use machi
 
 # 💻 Internships
 - *2023.10 - 2021.01*, Beijing Third Intermediate People's Court. 
-- *2022.03 - 2022.05*, Allbright Law Office（Jintiancheng lawfirm).
+- *2022.03 - 2022.05*, Allbright Law Office（Jintiancheng lawfirm）.
 
 # ✨ Resources of Chinese feminism
-- [Lorem](https://chinesefeminism.org/online-lectures/), Let feminism in China be passed down through generations.
+- [Chinesefeminism](https://chinesefeminism.org/online-lectures/), Let feminism in China be passed down through generations.
