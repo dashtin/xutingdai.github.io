@@ -43,11 +43,11 @@ My research interest includes law, feminism and criminology. I tend to use machi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.06* • Outstanding Master's Thesis Award in Law
+- *2024.06* • Outstanding Master's Thesis Award in Law（Ranked First among all Master's in Law students）
 - *2023.05* • The first prize of the fourth "Tianjin Legal Logic Forum
 - *2022.02* • The outstanding award in the 2nd "Future Elite Cup" National Writing Competition for Law Students
 (24 winning positions among over 1,000 essays)
-- *2022.06* • Outstanding Graduate at Nanjing Normal University
+- *2022.06* • Outstanding Graduate at Nanjing Normal University（Top 1%）
 
 # 📖 Educations
 - *2022.09 - 2024.06*, Beijing Normal University. Master of Laws. 
