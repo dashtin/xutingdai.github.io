@@ -31,7 +31,7 @@ My research interest includes law, feminism and criminology. I tend to use machi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](/Users/dashtin/Desktop/硕士/终稿戴旭婷论文.pdf)
+[An Empirical Study on the Impact of Female judges' Gender on Sentencing and Balanced sentencing in Rape Cases——Taking Beijing courts as a sample](/Users/dashtin/Desktop/硕士/终稿戴旭婷论文.pdf)
 
 **Xuting Dai**
 
@@ -59,4 +59,4 @@ My research interest includes law, feminism and criminology. I tend to use machi
 
 # ✨ Resources of Chinese feminism
 - [Chinesefeminism](https://chinesefeminism.org/online-lectures/), Let feminism in China be passed down through generations.
-- [upwomxn](https://upwomxn.org)A community promotes the communication among the Chinese femimist and LGBTQ+ community. I am honored to a member of this group, I have been continuously gaining knowledge and support from the community, so I encourage you to reach out to any community that resonates with you.
+- [upwomxn](https://upwomxn.org), A community promotes the communication among the Chinese femimist and LGBTQ+ community. I am honored to a member of this group, I have been continuously gaining knowledge and support from the community, so I encourage you to reach out to any community that resonates with you.
