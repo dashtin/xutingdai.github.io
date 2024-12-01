@@ -20,7 +20,7 @@ redirect_from:
 Amor mundi.\\
 Forever moved by this phrase, driven by love for the vulnerable and the world. I am applying for a PhD in criminology, focusing on gender theories, to use my knowledge to illuminate. If you have any advice or seek any form of academic cooperation, please feel free to email me at daixuting1123@gmail.com. I will be so glad to hear from you!\\
 I graduated from School of Law, Beijing Normal University with a master’s degree and from the School of Law, Nanjing Normal University with a bachelor’s degree. \\
-My research interest includes law, feminism and criminology. I tend to use machine learning methods to study criminology, and see its intersection with gender theories. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes law, feminism and criminology. I tend to use machine learning methods to study criminology, and see its intersection with gender theories. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).\\
 
 
 # 🔥 News
@@ -56,3 +56,4 @@ My research interest includes law, feminism and criminology. I tend to use machi
 
 # ✨ Resources of Chinese feminism
 - [Chinesefeminism](https://chinesefeminism.org/online-lectures/), Let feminism in China be passed down through generations.
+- [upwomxn](https://upwomxn.org)A community promotes the communication among the Chinese femimist and LGBTQ+ community. I am honored to a member of this group, I have been continuously gaining knowledge and support from the community, so I encourage you to reach out to any community that resonates with you.
