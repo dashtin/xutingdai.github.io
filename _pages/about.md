@@ -59,4 +59,4 @@ My research interest includes law, feminism and criminology. I tend to use machi
 
 # ✨ Resources of Chinese feminism
 - [Chinesefeminism](https://chinesefeminism.org/online-lectures/), Let feminism in China be passed down through generations.
-- [upwomxn](https://upwomxn.org), A community promotes the communication among the Chinese femimist and LGBTQ+ community. I am honored to a member of this group, I have been continuously gaining knowledge and support from the community, so I encourage you to reach out to any community that resonates with you.
+- [upwomxn](https://upwomxn.org), A community promotes the communication among the Chinese femimist and LGBTQ+ community. I am honored to a member of this group.
