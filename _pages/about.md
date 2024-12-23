@@ -40,7 +40,7 @@ My research interest includes law, feminism and criminology. I tend to use machi
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Empirical Research on Gender Violence and Its Governance in Cyberspace: Analysis and Suggestions](https://github.com), Guo, Lirong, Dai, Xuting, Xiong, Jiayi **2nd Tianjin Legal Logic Forum 2023**
 
 # 🎖 Honors and Awards
 - *2024.06* • Outstanding Master's Thesis Award in Law（Ranked First among all Master's in Law students）
